@@ -2,7 +2,7 @@
 
 Here you'll find bottles of utilities for macOS tools
 
-# 🤳🏼sage
+# Usage
 
 Use the following commands to add this tap to your local Homebrew installation.
 
